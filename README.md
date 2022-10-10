@@ -1,8 +1,8 @@
-![Hi, I'm Gabriel]
+Hi, I'm Gabriel
 <h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
+Full Stack Developer from Argentina to :earth_americas:
 </h2>
-## :star: Languages and Tools:
+:star: Languages and Tools:
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -23,7 +23,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   <br />
 </p>
  &nbsp;
- ## :paperclip: How to reach me:
+ How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/gabriel-hector-cruz-nesteruk-14b784252/" ><img width="5%" src="logos\linkedin-icon.png"> &nbsp;
 <a href="mailto:nesteruk806@gmail.com" ><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
