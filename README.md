@@ -29,9 +29,9 @@ Full Stack Developer from Argentina to :earth_americas:
 <a href="mailto:nesteruk806@gmail.com" ><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
 </span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyp97&show_icons=true&theme=tokyonight)](https://github.com/nesteruk2135/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesteruk2135&show_icons=true&theme=tokyonight)](https://github.com/nesteruk2135/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyp97&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nesteruk2135&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nesteruk2135/nesteruk2135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
