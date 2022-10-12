@@ -1,7 +1,10 @@
-Hi, I'm Gabriel
-<h2 align="center">
-Full Stack Developer from Argentina to :earth_americas:
-</h2>
+<h1 align="center">Hola 👋,yo soy Gabriel Nesteruk</h1>
+<h3 align="center">Full stack developer de Córdoba, Argentina
+
+- 👯 Puedes mirar mi trabajo en equipo en [PFRestaurante](https://github.com/kiliss/PF)
+
+- 💬 Pregúntame por **React, Express, JavaScript**
+
 :star: Languages and Tools:
 
 <p>
@@ -23,6 +26,14 @@ Full Stack Developer from Argentina to :earth_americas:
   <br />
 </p>
  &nbsp;
+ <div>
+    <h3 align="left">Algunas capturas de mi proyectos:</h3>
+    <img height='130px' src='./images/Register.png'>
+    <img height='130px' src='./images/menus.png'>
+    <img height='130px' src='./images/3.png'>
+    <img height='130px' src='./images/Reservas.png'>
+    <img height='130px' src='.images\Tabla_productosadmin.png'>
+</div>
  How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/gabriel-hector-cruz-nesteruk-14b784252/" ><img width="5%" src="logos\linkedin-icon.png"> &nbsp;
