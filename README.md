@@ -32,7 +32,7 @@
     <img height='130px' src='./images/menus.png'>
     <img height='130px' src='./images/3.png'>
     <img height='130px' src='./images/Reservas.png'>
-    <img height='130px' src='.images\Tabla_productosadmin.png'>
+    <img height='130px' src='.images/Tabla_productosadmin.png'>
 </div>
  How to reach me:
 <span >
