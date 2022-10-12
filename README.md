@@ -35,10 +35,17 @@
     <img height='130px' src='./images/Tabla_productosadmin.png'>
 </div>
  How to reach me:
+
+
+ mail:nesteruk806@gmail.com
+
+
 <span >
 <a href="https://www.linkedin.com/in/gabriel-hector-cruz-nesteruk-14b784252/" ><img width="5%" src="logos\linkedin-icon.png"> &nbsp;
 <a href="mailto:nesteruk806@gmail.com" ><img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
 </span>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesteruk2135&show_icons=true&theme=tokyonight)](https://github.com/nesteruk2135/github-readme-stats)
 
